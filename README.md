@@ -2,7 +2,7 @@
 <p>meocosta, monalisa... no fim é a Maria Elisa</p>
 <hr/>
 <img align="right" src="./files/cofe.gif" width="200px">
-<h2>Fique a vontade!</h2>
+<h3>Fique a vontade!</h3>
 <div >
 
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
@@ -26,10 +26,10 @@
 - 🖥️ Design de interfaces responsivas
   
 <img align="left" src="./files/lolita.png" width="350">
-<h2>A Aurora invadiu meu GitHub!</h2>
+<h3>A Aurora invadiu meu GitHub!</h3>
 <p>Esta é minha salsichinha Aurora, minha fiel companheira (e grudinho). Diga oi!</p>
 
-- ## 📚 Cursos e Certificados
+<h3>📚 Cursos e Certificados</h3>
 
 - 🧠 Web para Meninas - USP (2024)
 - 🧠 HTML, CSS e JS - Bradesco (2024)
